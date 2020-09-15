@@ -1,0 +1,38 @@
+{
+  "tareas": [
+    {
+      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
+      "nombre": "herreria"
+    },
+    {
+      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
+      "nombre": "paisajismo"
+    },
+    {
+      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
+      "nombre": "carpinteria"
+    },
+    {
+      "id": "76ebcb22-5577-4509-b179-12b80361db85",
+      "nombre": "albañileria"
+    }
+  ],
+  "obras": [
+    {
+      "id": "2c080302-15eb-4b10-bd63-fbb328b08207",
+      "nombre": "alfonsin"
+    },
+    {
+      "id": "67640a4a-dbff-412f-9e95-779d58b80e68",
+      "nombre": "ruprecht"
+    },
+    {
+      "id": "eb4d915a-229b-4abc-9183-30bef484aeb9",
+      "nombre": "casa del lago"
+    },
+    {
+      "id": "fbd0b701-1e56-48d8-9762-97b4063646c3",
+      "nombre": "wiñaski"
+    }
+  ]
+}
