@@ -34,5 +34,37 @@
       "id": "fbd0b701-1e56-48d8-9762-97b4063646c3",
       "nombre": "wiñaski"
     }
+  ],
+  "jornales": [
+    {
+      "Obra": "Dominguez",
+      "Tarea": "Carpinteria",
+      "total": 13,
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+    },
+    {
+      "Obra": "Fernandez",
+      "Tarea": "Carpinteria",
+      "total": 1,
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+    },
+    {
+      "Obra": "Gutierrez",
+      "Tarea": "Carpinteria",
+      "total": 8,
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+    },
+    {
+      "Obra": "Paz",
+      "Tarea": "Escaleras",
+      "total": 4,
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+    },
+    {
+      "Obra": "Dominguez",
+      "Tarea": "Zocalos",
+      "total": 12,
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+    }
   ]
 }
