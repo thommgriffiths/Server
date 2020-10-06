@@ -71,5 +71,27 @@
       "total": 12,
       "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
     }
+  ],
+  "checklist": [
+    {
+      "titulo": "tarea 1",
+      "cuerpo": "limpiar blah blahblah blha blahb blha blha lblha",
+      "ticked": true
+    },
+    {
+      "titulo": "tarea 2",
+      "cuerpo": "pulir   blah blahblah blha blahb blha blha lblha"
+      "ticked": true
+    },
+    {
+      "titulo": "tarea 3",
+      "cuerpo": "encerar  blah blahblah blha blahb blha blha lblha"
+      "ticked": false
+    },
+    {
+      "titulo": "tarea 4",
+      "cuerpo": "pintar  blah blahblah blha blahb blha blha lblha"
+      "ticked": false
+    }
   ]
 }
