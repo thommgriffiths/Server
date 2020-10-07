@@ -41,35 +41,40 @@
       "Obra": "Dominguez",
       "Tarea": "Carpinteria",
       "total": 13,
-      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4",
+      "validado": false
     },
     {
       "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
       "Obra": "Fernandez",
       "Tarea": "Carpinteria",
       "total": 1,
-      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4",
+      "validado": false
     },
     {
       "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
       "Obra": "Gutierrez",
       "Tarea": "Carpinteria",
       "total": 8,
-      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4",
+      "validado": true
     },
     {
       "id": "76ebcb22-5577-4509-b179-12b80361db85",
       "Obra": "Paz",
       "Tarea": "Escaleras",
       "total": 4,
-      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4",
+      "validado": false
     },
     {
       "id": "2c080302-15eb-4b10-bd63-fbb328b08207",
       "Obra": "Dominguez",
       "Tarea": "Zocalos",
       "total": 12,
-      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4"
+      "contratista": "012fc527-3cd3-4220-ab59-f671b47fb0f4",
+      "validado": false
     }
   ],
   "checklist": [
