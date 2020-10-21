@@ -98,5 +98,39 @@
       "cuerpo": "pintar  blah blahblah blha blahb blha blha lblha",
       "ticked": false
     }
-  ]
+  ],
+  "notificaciones" : [
+	{
+      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
+      "mensaje": "el contratista <b>fulanito</b> añadio 5 jornales"
+    },
+    {
+      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
+      "mensaje": "el arquitecto perez solicito los planos de plomeria para la obra Casa del Lago"
+    },
+    {
+      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
+      "mensaje": "El arquitecto ramirez solicito materiales para la obra Dominguez"
+    },
+    {
+      "id": "76ebcb22-5577-4509-b179-12b80361db85",
+      "mensaje": "el contratista <b>Mengano</b> añadio 8 jornales"
+    },
+    	{
+      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385a",
+      "mensaje": "El arquitecto ramirez solicito materiales para la obra Fernandez"
+    },
+    {
+      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80ea",
+      "mensaje": "El arquitecto perez hizo un requerimiento al estudio"
+    },
+    {
+      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80da",
+      "mensaje": "El arquitecto Perez a cargado fotos de la obra fernandez"
+    },
+    {
+      "id": "76ebcb22-5577-4509-b179-12b80361db85a",
+      "mensaje": "el contratista <b>Mengano</b> añadio 3 jornales"
+    }
+	]
 }
