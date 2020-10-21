@@ -20,19 +20,35 @@
   "obras": [
     {
       "id": "2c080302-15eb-4b10-bd63-fbb328b08207",
-      "nombre": "alfonsin"
+      "nombre": "Alfonsin"
     },
     {
       "id": "67640a4a-dbff-412f-9e95-779d58b80e68",
-      "nombre": "ruprecht"
+      "nombre": "Dolores"
     },
     {
       "id": "eb4d915a-229b-4abc-9183-30bef484aeb9",
-      "nombre": "casa del lago"
+      "nombre": "Casa del Lago"
     },
     {
       "id": "fbd0b701-1e56-48d8-9762-97b4063646c3",
-      "nombre": "wiñaski"
+      "nombre": "Wiñaski"
+    },
+        {
+      "id": "2c080302-15eb-4b10-bd63-fbb328b08207a",
+      "nombre": "Perez"
+    },
+    {
+      "id": "67640a4a-dbff-412f-9e95-779d58b80e68a",
+      "nombre": "Ramirez"
+    },
+    {
+      "id": "eb4d915a-229b-4abc-9183-30bef484aeb9a",
+      "nombre": "Fernandez"
+    },
+    {
+      "id": "fbd0b701-1e56-48d8-9762-97b4063646c3a",
+      "nombre": "Garcia"
     }
   ],
   "jornales": [
