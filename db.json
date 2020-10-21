@@ -116,111 +116,111 @@
     }
   ],
   "notificaciones" : [
-	{
-      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
-      "mensaje": "el contratista <b>fulanito</b> añadio 5 jornales"
-    },
-    {
-      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
-      "mensaje": "el arquitecto perez solicito los planos de plomeria para la obra Casa del Lago"
-    },
-    {
-      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
-      "mensaje": "El arquitecto ramirez solicito materiales para la obra Dominguez"
-    },
-    {
-      "id": "76ebcb22-5577-4509-b179-12b80361db85",
-      "mensaje": "el contratista <b>Mengano</b> añadio 8 jornales"
-    },
-    	{
-      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385a",
-      "mensaje": "El arquitecto ramirez solicito materiales para la obra Fernandez"
-    },
-    {
-      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80ea",
-      "mensaje": "El arquitecto perez hizo un requerimiento al estudio"
-    },
-    {
-      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80da",
-      "mensaje": "El arquitecto Perez a cargado fotos de la obra fernandez"
-    },
-    {
-      "id": "76ebcb22-5577-4509-b179-12b80361db85a",
-      "mensaje": "el contratista <b>Mengano</b> añadio 3 jornales"
-    }
+		{
+	      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
+	      "mensaje": "el contratista <b>fulanito</b> añadio 5 jornales"
+	    },
+	    {
+	      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
+	      "mensaje": "el arquitecto perez solicito los planos de plomeria para la obra Casa del Lago"
+	    },
+	    {
+	      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
+	      "mensaje": "El arquitecto ramirez solicito materiales para la obra Dominguez"
+	    },
+	    {
+	      "id": "76ebcb22-5577-4509-b179-12b80361db85",
+	      "mensaje": "el contratista <b>Mengano</b> añadio 8 jornales"
+	    },
+	    	{
+	      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385a",
+	      "mensaje": "El arquitecto ramirez solicito materiales para la obra Fernandez"
+	    },
+	    {
+	      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80ea",
+	      "mensaje": "El arquitecto perez hizo un requerimiento al estudio"
+	    },
+	    {
+	      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80da",
+	      "mensaje": "El arquitecto Perez a cargado fotos de la obra fernandez"
+	    },
+	    {
+	      "id": "76ebcb22-5577-4509-b179-12b80361db85a",
+	      "mensaje": "el contratista <b>Mengano</b> añadio 3 jornales"
+	    }
 	],
     "reembolsos" : [
-	{
-      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
-      "mensaje": "maderas zocalos",
-      "beneficiario": "Putin",
-      "tipo": "contratista",
-      "pago": false,
-      "monto": "1257,36",
-      "fecha": "10/12/2020"
-    },
-    {
-      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
-      "mensaje": "Clavos para albañileria"
-      "beneficiario": "Trump",
-      "tipo": "arquitecto",
-      "pago": true,
-      "monto": "121,18",
-      "fecha": "15/10/2020"
-    },
-    {
-      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
-      "mensaje": "Espatula para cemento"
-      "beneficiario": "Macron",
-      "tipo": "contratista",
-      "pago": false,
-      "monto": "420,50",
-      "fecha": "17/05/2020"
-    },
-    {
-      "id": "76ebcb22-5577-4509-b179-12b80361db85",
-      "mensaje": "nafta para generador electrico"
-      "beneficiario": "Trump",
-      "tipo": "arquitecto",
-      "pago": false,
-      "monto": "789,70",
-      "fecha": "17/10/2020"
-    },
-    	{
-      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385a",
-      "mensaje": "plata para cascote"
-      "beneficiario": "Lagarde",
-      "tipo": "contratista",
-      "pago": true,
-      "monto": "1200,78",
-      "fecha": "16/09/2020"
-    },
-    {
-      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80ea",
-      "mensaje": "Alquiler nmartillo neumatico"
-      "beneficiario": "Merkel",
-      "tipo": "arquitecto",
-      "pago": true,
-      "monto": "2000,96",
-      "fecha": "19/10/2020"
-    },
-    {
-      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80da",
-      "mensaje": "asado para los muchachos"
-      "beneficiario": "Merkel",
-      "tipo": "arquitecto",
-      "pago": false,
-      "monto": "5000,00",
-      "fecha": "07/10/2020"
-    },
-    {
-      "id": "76ebcb22-5577-4509-b179-12b80361db85a",
-      "mensaje": "pago fletero"
-      "beneficiario": "Trump",
-      "tipo": "arquitecto",
-      "pago": false,
-      "monto": "500,45",
-      "fecha": "09/10/2020"
-    }
+		{
+	      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385",
+	      "mensaje": "maderas zocalos",
+	      "beneficiario": "Putin",
+	      "tipo": "contratista",
+	      "pago": false,
+	      "monto": "1257,36",
+	      "fecha": "10/12/2020"
+	    },
+	    {
+	      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80e",
+	      "mensaje": "Clavos para albañileria",
+	      "beneficiario": "Trump",
+	      "tipo": "arquitecto",
+	      "pago": true,
+	      "monto": "121,18",
+	      "fecha": "15/10/2020"
+	    },
+	    {
+	      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80d",
+	      "mensaje": "Espatula para cemento",
+	      "beneficiario": "Macron",
+	      "tipo": "contratista",
+	      "pago": false,
+	      "monto": "420,50",
+	      "fecha": "17/05/2020"
+	    },
+	    {
+	      "id": "76ebcb22-5577-4509-b179-12b80361db85",
+	      "mensaje": "nafta para generador electrico",
+	      "beneficiario": "Trump",
+	      "tipo": "arquitecto",
+	      "pago": false,
+	      "monto": "789,70",
+	      "fecha": "17/10/2020"
+	    },
+	    	{
+	      "id": "0aa93046-7ba1-484d-9aa1-e1f0be90a385a",
+	      "mensaje": "plata para cascote",
+	      "beneficiario": "Lagarde",
+	      "tipo": "contratista",
+	      "pago": true,
+	      "monto": "1200,78",
+	      "fecha": "16/09/2020"
+	    },
+	    {
+	      "id": "6b315f2b-5249-4f0d-9966-f4e48c0de80ea",
+	      "mensaje": "Alquiler nmartillo neumatico",
+	      "beneficiario": "Merkel",
+	      "tipo": "arquitecto",
+	      "pago": true,
+	      "monto": "2000,96",
+	      "fecha": "19/10/2020"
+	    },
+	    {
+	      "id": "6f44ee7e-fbf4-4d82-b02a-c4eec641d80da",
+	      "mensaje": "asado para los muchachos",
+	      "beneficiario": "Merkel",
+	      "tipo": "arquitecto",
+	      "pago": false,
+	      "monto": "5000,00",
+	      "fecha": "07/10/2020"
+	    },
+	    {
+	      "id": "76ebcb22-5577-4509-b179-12b80361db85a",
+	      "mensaje": "pago fletero",
+	      "beneficiario": "Trump",
+	      "tipo": "arquitecto",
+	      "pago": false,
+	      "monto": "500,45",
+	      "fecha": "09/10/2020"
+	    }
    ]
 }
